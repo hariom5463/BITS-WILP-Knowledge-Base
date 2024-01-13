@@ -13,7 +13,7 @@ To know more about Obsidian and what it is, you can read about it in my blog art
     * [mkdocs-material](https://squidfunk.github.io/mkdocs-material/)
     * [mkdocs](https://www.mkdocs.org/user-guide/configuration/)
 4. Push to github, 
-5. Go to github setting, open github page, choose `gh-pages` branch, wait a moment, then visit `https://<your-github-username.github.io/<your-repo>`, for example:`https://akhilsudh.github.io/BITS-WILP-Knowledge-Base/`
+5. Go to github setting, open github page, choose `gh-pages` branch, wait a moment, then visit `https://<your-github-username.github.io/<your-repo>`, for example:`https://hariom5463.github.io/BITS-WILP-Knowledge-Base/`
 
 Thnks to `Github Actions`, it is easy to deploy a static page, all you need to do is modify and push your changes and the actions defined in the repo will deploy the page for you in the `gh-pages` branch
 
