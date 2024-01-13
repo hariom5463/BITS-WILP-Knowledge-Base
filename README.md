@@ -3,7 +3,7 @@ Hi! Welcome to my BITS WILP Knowledge Base. This is a personal note book for all
 
 ## So what is the purpose of this? 🤷🏽‍♂️
 My learning method includes taking a lot of notes through a local note taking tool called [Obsidian](https://obsidian.md/). This website simply hosts that vault of Obsidian notes. The purpose of this page is to make the notes taken throughout my coursework accessible to myself and others in the same boat as me. Maybe this can help you too 🤘🏽
-To know more about Obsidian and what it is, you can read about it in my blog article [here](https://justanothergeek.hashnode.dev/obsidian-as-a-second-brain)
+To know more about Obsidian and what it is, you can read about it in one of my friend's blog article [here](https://justanothergeek.hashnode.dev/obsidian-as-a-second-brain)
 
 ## Usage
 ### Deploy to Github Pages
